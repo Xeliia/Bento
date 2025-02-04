@@ -11,8 +11,8 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
-	imageBackground: false,
+	name: 'Xel',
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Kren',
-					link: 'https://www.youtube.com/playlist?list=PLgF_gQh7OwJzwtN08b5oQ_-s3uZ6IsLp-',
+					name: 'Youtube Music',
+					link: 'https://music.youtube.com',
 				},
 				{
-					name: 'Underrated',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCvKwhXmedIRmxXU-nUy7XIi',
+					name: 'Spotify',
+					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'Japanese',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCt67v5-tO3_sA6sCaepg5I-',
+					name: 'Doujin Style',
+					link: 'https://doujinstyle.com',
 				},
 				{
-					name: 'Lofi',
-					link: 'https://www.youtube.com/live/lHpYyYtkmrw?si=Cv6wNnDWWhJGlL65',
+					name: 'Favorite',
+					link: 'https://www.youtube.com/watch?v=vRB0dsAitjE',
 				},
 			],
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Facebook',
+					link: 'https://www.facebook.com',
 				},
 				{
 					name: 'X',
 					link: 'https://www.x.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Messenger',
+					link: 'https://www.messenger.com',
 				},
 			],
 		},
